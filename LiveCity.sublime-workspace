@@ -1,0 +1,1085 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ran",
+				"random_color"
+			],
+			[
+				"part",
+				"particle2"
+			],
+			[
+				"par",
+				"particle1"
+			],
+			[
+				"pa",
+				"particle2"
+			],
+			[
+				"m",
+				"mouseX"
+			],
+			[
+				"get",
+				"get_pos"
+			],
+			[
+				"mous",
+				"mouseY"
+			],
+			[
+				"sel",
+				"selected_particle"
+			],
+			[
+				"mou",
+				"mouseX"
+			],
+			[
+				"in",
+				"inside_particle"
+			],
+			[
+				"mos",
+				"mouseY"
+			],
+			[
+				"mo",
+				"mouseY"
+			],
+			[
+				"a",
+				"add_vectors"
+			],
+			[
+				"angl",
+				"angle"
+			],
+			[
+				"len",
+				"length2"
+			],
+			[
+				"win",
+				"windowX"
+			],
+			[
+				"wind",
+				"windowX"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"rad",
+				"randint"
+			],
+			[
+				"wi",
+				"windowX"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"px",
+				"pxH"
+			],
+			[
+				"sc",
+				"screen_height"
+			],
+			[
+				"w",
+				"windowY"
+			],
+			[
+				"windo",
+				"windowY"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"Pro",
+				"Project"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Medium",
+				"MediumAdmin"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"resu",
+				"resume_handler"
+			],
+			[
+				"port",
+				"portfolio_handler"
+			],
+			[
+				"se",
+				"sender"
+			],
+			[
+				"sen",
+				"send_mail"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"Image",
+				"ImageSpecField"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"Im",
+				"ImageField"
+			],
+			[
+				"thum",
+				"thumb_upload_handler"
+			],
+			[
+				"cl",
+				"category_list"
+			],
+			[
+				"ca",
+				"Category"
+			],
+			[
+				"tes",
+				"test2"
+			],
+			[
+				"te",
+				"test2"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"Po",
+				"PrintablePortfolio"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"pr",
+				"project_slug"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"ht",
+				"HttpResponse"
+			],
+			[
+				"f",
+				"featured_project_list"
+			],
+			[
+				"c",
+				"category"
+			],
+			[
+				"co",
+				"completion_date"
+			],
+			[
+				"is",
+				"is_featured"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"Pr",
+				"ProjectImageInline"
+			],
+			[
+				"Project",
+				"ProjectImage"
+			],
+			[
+				"Mo",
+				"MONTH_CHOICES"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"_",
+				"__name__"
+			],
+			[
+				"n",
+				"numbers"
+			],
+			[
+				"h",
+				"help"
+			],
+			[
+				"pi",
+				"pix"
+			],
+			[
+				"s",
+				"side_length"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"URL",
+				"URLField"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"Ge",
+				"GET"
+			],
+			[
+				"Te",
+				"TextField"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"ul",
+				"url_for"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"un",
+				"unfollow"
+			],
+			[
+				"com",
+				"commit"
+			],
+			[
+				"nic",
+				"nickname"
+			],
+			[
+				"follo",
+				"followed"
+			],
+			[
+				"foll",
+				"follower_id"
+			],
+			[
+				"o",
+				"original_nickname"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"M",
+				"MAIL_SERVER"
+			],
+			[
+				"MP",
+				"MAIL_PORT"
+			],
+			[
+				"MA",
+				"MAIL_USERNAME"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"if",
+				"if	If"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"log",
+				"logout_user"
+			],
+			[
+				"logi",
+				"login_required"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"Ro",
+				"ROLE_USER"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"l",
+				"login"
+			],
+			[
+				"si",
+				"SQLALCHEMY_MIGRATE_REPO"
+			],
+			[
+				"so",
+				"SQLALCHEMY_MIGRATE_REPO"
+			],
+			[
+				"SQ",
+				"SQLALCHEMY_DATABASE_URI"
+			],
+			[
+				"v",
+				"version_control"
+			],
+			[
+				"S",
+				"SQLALCHEMY_DATABASE_URI"
+			],
+			[
+				"ROLE",
+				"ROLE_USER"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"con",
+				"connect_db"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"dist",
+				"distances"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"word",
+				"words"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"brep",
+				"breps"
+			],
+			[
+				"bre",
+				"breps"
+			],
+			[
+				"curr",
+				"current_dist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "twitterStream.py",
+			"settings":
+			{
+				"buffer_size": 573,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"jin",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ji",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"par",
+				"Package Control: Remove Package"
+			],
+			[
+				"sub",
+				"SublimeREPL: Python"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"py",
+				"Python: Test"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"init_db()",
+			"python",
+			"import math",
+			"which python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johnmars/Development/LiveCity/exampleTweet.json",
+		"/Users/johnmars/Development/LiveCity/sandbox.py",
+		"/Users/johnmars/Documents/Thesis/twitterStream.py",
+		"/Users/johnmars/Downloads/req.txt",
+		"/Users/johnmars/.zshrc",
+		"/Users/johnmars/.bash_profile",
+		"/Users/johnmars/.bashrc",
+		"/Users/johnmars/Documents/Archive 13-14/Fall 2013/ThesisBoard/streamSandbox.py",
+		"/etc/shells",
+		"/Users/johnmars/.ba",
+		"/Users/johnmars/.zpreztorc",
+		"/Users/johnmars/.zshlogin",
+		"/Users/johnmars/.zshco",
+		"/Users/johnmars/Documents/Archive 13-14/Fall 2013/ThesisBoard/streamTrending.py",
+		"/Users/johnmars/Downloads/processingPythonTest.py",
+		"/Users/johnmars/Documents/Wintersession 2014/Shape of Flight/bounce.py",
+		"/Users/johnmars/Downloads/sandbox.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/ArcLengthMouse.py",
+		"/Users/johnmars/Downloads/bounce.py",
+		"/Users/johnmars/Website/portfolio-projects/Computing Drawing/Pygame-Code/*Grid.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/RandomTeardropLines.py",
+		"/Users/johnmars/Website/portfolio-projects/Miscellaneous/RectangleRandomPointFill.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/RandomTeardropLinesLarge.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/RandomTeardrop.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/RandomPixelFill.py",
+		"/Users/johnmars/Website/portfolio-projects/Falling-Code/Falling.py",
+		"/Users/johnmars/Website/portfolio-projects/Miscellaneous/StairDrawer.py",
+		"/Users/johnmars/Website/portfolio-projects/Miscellaneous/AnimationMaker.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/QuadraticAttractor.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/RandomCircleFillMouseRadius.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/RandomCircles.py",
+		"/Users/johnmars/Website/portfolio-projects/Miscellaneous/randomSpheres.py",
+		"/Users/johnmars/Website/portfolio-projects/Miscellaneous/reduce.py",
+		"/Users/johnmars/Website/portfolio-projects/Miscellaneous/rhinoToHPGL-v4.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/SineArcFill.py",
+		"/Users/johnmars/Website/portfolio-projects/Boids-Code/squareSorter.py",
+		"/Users/johnmars/Website/portfolio-projects/Miscellaneous/surfaceRandomPointFill.py",
+		"/Users/johnmars/Website/portfolio-projects/Falling-Code/VolumeFill.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/WalkingLineNSEW.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/WebDrawer.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/ZipperLine.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/CirclesRadiusGradient.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/ColorChangeMouse.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/ConnectGridLines.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/CosineCircles.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/Grid.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/GridLinesFollowMouse.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/GridSandwichLargeCircles.py",
+		"/Users/johnmars/Website/portfolio-projects/Boids/flockingStartEndObstacles.py",
+		"/Users/johnmars/Website/portfolio-projects/Boids/boidsWithBorder.py",
+		"/Users/johnmars/Website/portfolio-projects/Boids/boids.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/WalkingLineNSEW.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierQuadraticRepetitionAttractorPt.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierQuadraticRepetitionRandom.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierRecursive.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierAndLineWalker.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierFifthOrderRepetitionAttractorPt.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame/Arc.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/Bezier_Cubic_Attractor.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/BezierCubicRepetitionAttractorPt.py",
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/Bezier-Cubic_Random.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/ArcLengthMouse.py",
+		"/Users/johnmars/Website/portfolio-projects/Arc.py",
+		"/Users/johnmars/Website/DJANGO/mysite/mysite/urls.py",
+		"/Users/johnmars/Website/DJANGO/mysite/mysite/settings.py",
+		"/Users/johnmars/Website/DJANGO/mysite/portfolio/models.py",
+		"/Users/johnmars/Website/DJANGO/mysite/portfolio/views.py",
+		"/Users/johnmars/Website/DJANGO/mysite/files/static/portfolio/css/style.css",
+		"/Users/johnmars/Library/Caches/com.binarynights.ForkLift2/#1/config.isotope.js",
+		"/Users/johnmars/move.sh",
+		"/Users/johnmars/.zprezto/modules/python/README.md",
+		"/Users/johnmars/Downloads/transcript.html",
+		"/Users/johnmars/.zshrc.omz-uninstalled-20131220111531",
+		"/Users/johnmars/.zshrc.save",
+		"/Users/johnmars/Website/DJANGO/mysite/portfolio/templates/portfolio/project.html",
+		"/Users/johnmars/Website/DJANGO/mysite/files/static/portfolio/js/script.js",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/CA16E040-C606-4833-9852-7F42543197F0/config.isotope.js",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/4770CF55-09B3-4B81-A0D0-04D6F5432315/models.py",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/CC504EC0-0348-41AC-B18C-305F7F250F3D/project.html",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/C4B94E5B-CDE0-408D-812D-CDE3DCAF657C/models.py",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/9E4877E2-B14D-49DD-875D-B83DB922F720/admin.py",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/47FE010C-6E97-46F4-B869-2960801FE019/models.py",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/1C61E1EF-1512-4203-98C1-93DBB29CE765/style.css",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/C9F2AAEE-F41A-474C-95B6-D8430DA47AB2/index.html",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/F7C8E5BD-899B-4CD9-ABFF-F8149406BF1B/settings.py",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/B6D79697-B87B-4838-8ECA-DCB87D2CD690/settings.py",
+		"/Volumes/198.211.101.112/projects/mysite/portfolio/admin.py",
+		"/Volumes/198.211.101.112/projects/mysite/portfolio/models.py",
+		"/Volumes/198.211.101.112/projects/mysite/portfolio/templates/portfolio/index.html",
+		"/Volumes/198.211.101.112/projects/mysite/mysite/settings.py",
+		"/Volumes/198.211.101.112/projects/mysite/portfolio/views.py",
+		"/Users/johnmars/Library/Caches/com.binarynights.ForkLift2/#1/views.py",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/CD45FB1C-2F3A-4E2B-B7AB-027C4D992753/isotope.css",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/3161C059-3F8D-4C6F-A508-7EA2D66AD97C/style.css",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/944CC781-BC9F-4D93-A18F-CC2A260CF210/script.js",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/7D34FAC0-4445-4316-B698-6F424252D52E/config.isotope.js",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/templates/portfolio/contact.html",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/0319A347-2A0A-417E-898C-9FFE77349973/bio.html",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/3D578D09-96E1-4D15-8379-CF323E92495A/admin.py",
+		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/7FA5FE28-AA1C-4C8B-B8BF-6AAEB9E2CEFB/models.py",
+		"/Users/johnmars/portfolioSite/mysite/mysite/urls.py",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/models.py",
+		"/Users/johnmars/portfolioSite/mysite/mysite/settings.py",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/admin.py",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/views.py",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/templates/portfolio/base.html",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/templates/portfolio/index.html",
+		"/Users/johnmars/Desktop/ARToolKit/Configure",
+		"/Users/johnmars/ENV-DJANGO-PORTFOLIO/lib/python2.7/site-packages/django/core/servers/fastcgi.py",
+		"/Users/johnmars/Downloads/d.py",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/urls.py",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/static/portfolio/css/style.css",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/templates/portfolio/bio.html",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/static/portfolio/css/isotope.css",
+		"/Users/johnmars/portfolioSite/index.html",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/static/portfolio/js/script.js",
+		"/Users/johnmars/Website/index.html",
+		"/Users/johnmars/Website/js/isotope.js",
+		"/Users/johnmars/portfolioSite/mysite/portfolio/static/portfolio/js/config.isotope.js",
+		"/Users/johnmars/Website/js/scripts.js",
+		"/Users/johnmars/Website/css/isotope.css",
+		"/Users/johnmars/portfolioSite/js/config.isotope.js",
+		"/Users/johnmars/portfolioSite/js/script.js",
+		"/Users/johnmars/portfolioSite/css/style.css",
+		"/Users/johnmars/portfolioSite/css/isotope.css",
+		"/Users/johnmars/bootswatch/custom/variables.less",
+		"/Users/johnmars/portfolioSite/css/bootstrap.css",
+		"/Users/johnmars/bootswatch/custom/bootswatch.less"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"bootstrap.css",
+			"",
+			"bsc_catalog.txt",
+			"bright_star_catalog_reader.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Twython",
+			"twython",
+			"255",
+			"end_action",
+			"event_actions",
+			"sin",
+			"Screen",
+			"speed",
+			"uniform",
+			"input",
+			"255",
+			"templa",
+			"  ",
+			"2013F",
+			"2014",
+			"2013FA",
+			"*PR",
+			"PR",
+			"height",
+			"get",
+			"portfolio",
+			"content",
+			"contact",
+			"bio",
+			"subject",
+			"Std",
+			"ImageField",
+			"models.StdImageField",
+			"str(slug) + '/thumbs'",
+			"176",
+			"md",
+			"1",
+			"slug",
+			"project",
+			"|lower",
+			".lower()",
+			"category",
+			"category_list",
+			"static",
+			"options['de",
+			"wsgi_opts['debug']",
+			"download",
+			"user",
+			"portfolio",
+			"PrintablePortfolio",
+			"width",
+			"left",
+			"bio",
+			"resume",
+			"info",
+			"210",
+			"100",
+			"js/",
+			"css/",
+			"feat",
+			"#",
+			" blue",
+			" red",
+			"info",
+			".com/",
+			"featured",
+			"professional",
+			"architecture",
+			"#filter",
+			"filter",
+			"selected",
+			" class=\"active\"",
+			"Featured",
+			"featured",
+			"glyp",
+			"icon",
+			"glyp",
+			"fff",
+			"activ",
+			"outer",
+			"shadow",
+			"xsuccess",
+			"-s",
+			"data-category=\"test\"",
+			"data-option-value",
+			"div",
+			"100",
+			"10px",
+			"200px",
+			"90px",
+			"180",
+			"200",
+			"cat",
+			"\"\"",
+			"default",
+			"webkit",
+			"focus",
+			"btn",
+			"sha",
+			"shado",
+			"out",
+			"outer",
+			"default",
+			"Design",
+			"label label-default",
+			"class",
+			"span",
+			"Design",
+			"sans",
+			"warnin",
+			"warn",
+			"success",
+			"navbar",
+			"nav",
+			"link",
+			"primary:ho",
+			"link",
+			"primary:",
+			"prima",
+			"link",
+			"WARNING",
+			"INFO",
+			"DANGER",
+			"PRIMARY",
+			"danger",
+			"warning",
+			"info",
+			"primary",
+			"primary:h",
+			"info:h",
+			"#ff0039",
+			"info",
+			"1px solid #0066cc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"warning",
+			"info",
+			"danger",
+			"primary",
+			"PRIMARY",
+			"DANGER",
+			"WARNING",
+			"INFO",
+			"1px solid #e6e6e6",
+			"warning",
+			"info",
+			"INFO",
+			"danger",
+			"BLUE",
+			"warning",
+			"BLUE",
+			"ORANGE",
+			"PURPLE",
+			"info",
+			"warning*****",
+			"#e6e6e6",
+			"#ff0039",
+			"#007fff",
+			"#0066cc",
+			"HOVERRED*****",
+			"LIGHTRED*****",
+			"HOVERBLUE*****",
+			"LIGHTBLUE*****",
+			".",
+			"+",
+			"$",
+			"",
+			"-",
+			".edu,",
+			"risd",
+			"0",
+			"@",
+			"catalog[",
+			" = self.",
+			" = ",
+			"star"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "twitterStream.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 294.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "LiveCity.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

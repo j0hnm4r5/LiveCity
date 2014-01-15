@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+
+	"build_systems":
+	[
+		{
+			"selector": "source.python",
+			"env": {"PYTHONPATH":"$project"},
+			"path":"/Users/johnmars/.virtualenvs/LiveCity/bin:$PATH",
+			"name": "Run Virtualenv Python",
+			"cmd": ["python", "-u", "$file"],
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)"
+		}
+	]
+}
