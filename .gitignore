@@ -3,3 +3,4 @@ sandbox*.*
 *.pyc
 twitterCredentials.py
 *Virtualenv
+Images/
