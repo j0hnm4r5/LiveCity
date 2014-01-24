@@ -1,6 +1,6 @@
 .DS_Store
 sandbox*.*
 *.pyc
-twitterCredentials.py
 *Virtualenv
 Images/
+*Credentials.py

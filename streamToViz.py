@@ -25,8 +25,7 @@ new_york = ("-80,40.2,-71.3,46", 100, "New York State")
 carribean = ("-63.58,11.58,-58.79,18.66", 100, "Lower Antilles")
 
 # LOCATION GOES HERE
-# loc = sys.argv[1]
-loc = world
+loc = new_york
 
 scale_factor = loc[1]
 geoBounds = loc[0]
