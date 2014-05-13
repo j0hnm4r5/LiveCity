@@ -40,8 +40,8 @@ class StreamThread(Thread):
 
 	def run(self):
 		self.stream = LiveStream(APP_KEY, APP_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET, self.stream_queue)
-		print "STREAM INITIALIZED"		
-		
+		print "STREAM INITIALIZED"
+
 		self.stream.statuses.filter(locations=loc[0])
 		# self.stream.statuses.sample()
 
@@ -69,7 +69,7 @@ def setup():
 	genHeight = int(abs(float(geoBounds[1]) - float(geoBounds[3])) * scale_factor)
 	# print "Window Size: %s x %s\n" % (genWidth, genHeight)
 	size(genWidth, genHeight, caption=loc[2] + ", Starting at: " + str(datetime.now()))
-	background(0)
+	background(20)
 	noStroke()
 
 	try:
@@ -85,7 +85,7 @@ def draw():
 	# DIM OLD DOTS
 	fill(0, 5)
 	rect(0, 0, width, height)
-	
+
 	# GET DATA
 	data = stream_queue.get()
 	stream_queue.task_done()
@@ -101,7 +101,7 @@ def draw():
 		print lon, lat
 		x = map(lon, float(geoBounds[0]), float(geoBounds[2]), 0, width)
 		y = height - map(lat, float(geoBounds[1]), float(geoBounds[3]), 0, height)
-		
+
 		#CREATE BLUR/GLOW
 		for i, v in enumerate(range(90, 0, -15)):
 			fill(255, v)
@@ -113,7 +113,7 @@ def draw():
 		# textSize(8)
 		# text(place, x, y)
 	except (TypeError, KeyError, UnicodeDecodeError):
-		pass	
+		pass
 
 
 run()
