@@ -5,7 +5,13 @@ from twitterCredentials import *
 class MyStreamer(TwythonStreamer):
 	def on_success(self, data):
 		if 'text' in data:
-			print data['text'].encode('utf-8')
+			try:
+				# print data['text'].encode('utf-8')
+				# print data['coordinates']['coordinates']
+				# print data['user']['followers_count']
+				print data['user']['profile_image_url']
+			except:
+				pass
 		
 
 stream = MyStreamer(APP_KEY, APP_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET)

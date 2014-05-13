@@ -4,20 +4,228 @@
 		"selected_items":
 		[
 			[
-				"ran",
-				"random_color"
+				"new",
+				"new_york"
 			],
 			[
-				"part",
-				"particle2"
+				"sca",
+				"scale_down_followers"
 			],
 			[
-				"par",
-				"particle1"
+				"n",
+				"num_connections"
+			],
+			[
+				"num",
+				"num_connections"
+			],
+			[
+				"gl",
+				"global_coord_x"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"followers",
+				"followers_count"
+			],
+			[
+				"nod",
+				"node_color"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"ne",
+				"new_york"
+			],
+			[
+				"wr",
+				"writerow"
+			],
+			[
+				"fr",
+				"frame"
+			],
+			[
+				"fra",
+				"frames"
+			],
+			[
+				"from",
+				"fromarray"
+			],
+			[
+				"vi",
+				"video_file"
+			],
+			[
+				"fo",
+				"fourcc"
+			],
+			[
+				"ff",
+				"FFMpegWriter"
+			],
+			[
+				"frm",
+				"frame"
+			],
+			[
+				"mo",
+				"movie_load"
+			],
+			[
+				"ra",
+				"random_q"
+			],
+			[
+				"Vote",
+				"VoteForm"
+			],
+			[
+				"rand",
+				"random_q"
+			],
+			[
+				"Ques",
+				"Question"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"meta",
+				"display_meta"
+			],
+			[
+				"form",
+				"form_valid"
+			],
+			[
+				"Qu",
+				"QuestionDetailView"
+			],
+			[
+				"rende",
+				"render_to_response"
+			],
+			[
+				"Quest",
+				"QuestionForm"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ques",
+				"questioning"
+			],
+			[
+				"fil",
+				"fileCount"
+			],
+			[
+				"wo",
+				"windowY"
+			],
+			[
+				"wi",
+				"windowX"
+			],
+			[
+				"w",
+				"windowX"
+			],
+			[
+				"win",
+				"windowY"
+			],
+			[
+				"co",
+				"control_pts"
+			],
+			[
+				"a",
+				"acceleration"
+			],
+			[
+				"at",
+				"atan2"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"le",
+				"length"
 			],
 			[
 				"pa",
+				"particles"
+			],
+			[
+				"mass",
+				"particle_mass"
+			],
+			[
+				"par",
 				"particle2"
+			],
+			[
+				"part",
+				"particle"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"o",
+				"overlap"
+			],
+			[
+				"dis",
+				"dist"
+			],
+			[
+				"sle",
+				"selected_ball"
+			],
+			[
+				"sel",
+				"selected_ball"
+			],
+			[
+				"bal",
+				"balls"
+			],
+			[
+				"stre",
+				"stream_queue"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"c",
+				"coordinates"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"ran",
+				"random_color"
 			],
 			[
 				"m",
@@ -32,10 +240,6 @@
 				"mouseY"
 			],
 			[
-				"sel",
-				"selected_particle"
-			],
-			[
 				"mou",
 				"mouseX"
 			],
@@ -48,14 +252,6 @@
 				"mouseY"
 			],
 			[
-				"mo",
-				"mouseY"
-			],
-			[
-				"a",
-				"add_vectors"
-			],
-			[
 				"angl",
 				"angle"
 			],
@@ -64,28 +260,12 @@
 				"length2"
 			],
 			[
-				"win",
-				"windowX"
-			],
-			[
 				"wind",
 				"windowX"
 			],
 			[
-				"rand",
-				"random"
-			],
-			[
 				"rad",
 				"randint"
-			],
-			[
-				"wi",
-				"windowX"
-			],
-			[
-				"ra",
-				"radius"
 			],
 			[
 				"px",
@@ -94,10 +274,6 @@
 			[
 				"sc",
 				"screen_height"
-			],
-			[
-				"w",
-				"windowY"
 			],
 			[
 				"windo",
@@ -114,10 +290,6 @@
 			[
 				"font",
 				"font-style"
-			],
-			[
-				"re",
-				"resources"
 			],
 			[
 				"Pro",
@@ -212,10 +384,6 @@
 				"test2"
 			],
 			[
-				"fil",
-				"file_path"
-			],
-			[
 				"Po",
 				"PrintablePortfolio"
 			],
@@ -230,14 +398,6 @@
 			[
 				"li",
 				"li	Tag"
-			],
-			[
-				"fo",
-				"font-family"
-			],
-			[
-				"i",
-				"import"
 			],
 			[
 				"ge",
@@ -258,14 +418,6 @@
 			[
 				"f",
 				"featured_project_list"
-			],
-			[
-				"c",
-				"category"
-			],
-			[
-				"co",
-				"completion_date"
 			],
 			[
 				"is",
@@ -296,20 +448,12 @@
 				"__name__"
 			],
 			[
-				"n",
-				"numbers"
-			],
-			[
 				"h",
 				"help"
 			],
 			[
 				"pi",
 				"pix"
-			],
-			[
-				"s",
-				"side_length"
 			],
 			[
 				"p",
@@ -370,163 +514,11 @@
 			[
 				"follo",
 				"followed"
-			],
-			[
-				"foll",
-				"follower_id"
-			],
-			[
-				"o",
-				"original_nickname"
-			],
-			[
-				"lo",
-				"logger"
-			],
-			[
-				"M",
-				"MAIL_SERVER"
-			],
-			[
-				"MP",
-				"MAIL_PORT"
-			],
-			[
-				"MA",
-				"MAIL_USERNAME"
-			],
-			[
-				"er",
-				"error"
-			],
-			[
-				"if",
-				"if	If"
-			],
-			[
-				"da",
-				"data"
-			],
-			[
-				"pos",
-				"posts"
-			],
-			[
-				"login",
-				"login_required"
-			],
-			[
-				"us",
-				"user"
-			],
-			[
-				"log",
-				"logout_user"
-			],
-			[
-				"logi",
-				"login_required"
-			],
-			[
-				"de",
-				"def	Function"
-			],
-			[
-				"Ro",
-				"ROLE_USER"
-			],
-			[
-				"user",
-				"user"
-			],
-			[
-				"u",
-				"user"
-			],
-			[
-				"l",
-				"login"
-			],
-			[
-				"si",
-				"SQLALCHEMY_MIGRATE_REPO"
-			],
-			[
-				"so",
-				"SQLALCHEMY_MIGRATE_REPO"
-			],
-			[
-				"SQ",
-				"SQLALCHEMY_DATABASE_URI"
-			],
-			[
-				"v",
-				"version_control"
-			],
-			[
-				"S",
-				"SQLALCHEMY_DATABASE_URI"
-			],
-			[
-				"ROLE",
-				"ROLE_USER"
-			],
-			[
-				"d",
-				"db"
-			],
-			[
-				"con",
-				"connect_db"
-			],
-			[
-				"siz",
-				"font-size"
-			],
-			[
-				"dist",
-				"distances"
-			],
-			[
-				"wor",
-				"word"
-			],
-			[
-				"rep",
-				"replace"
-			],
-			[
-				"word",
-				"words"
-			],
-			[
-				"wo",
-				"word"
-			],
-			[
-				"brep",
-				"breps"
-			],
-			[
-				"bre",
-				"breps"
-			],
-			[
-				"curr",
-				"current_dist"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "twitterStream.py",
-			"settings":
-			{
-				"buffer_size": 573,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -535,12 +527,16 @@
 		"selected_items":
 		[
 			[
-				"pro",
-				"Project: Save As"
-			],
-			[
 				"jin",
 				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Save As"
 			],
 			[
 				"inst",
@@ -581,10 +577,6 @@
 			[
 				"paci",
 				"Package Control: Install Package"
-			],
-			[
-				"pac",
-				"Package Control: Remove Package"
 			],
 			[
 				"Package Control: ",
@@ -631,11 +623,97 @@
 	},
 	"file_history":
 	[
-		"/Users/johnmars/Development/LiveCity/exampleTweet.json",
+		"/Users/johnmars/Documents/Archive/Archive 13-14/Fall 2013/ThesisBoard/streamToSpeech.py",
+		"/Users/johnmars/Development/LiveCity/streamToGraphVizWithSoundandColor.py",
+		"/Users/johnmars/Development/LiveCity/oscNoteInChord.pd",
+		"/Users/johnmars/Development/LiveCity/buttonRandomNoteInChord.pd",
+		"/Users/johnmars/Development/LiveCity/streamToGraphVizRadiateWithSound.py",
+		"/Users/johnmars/Development/LiveCity/drawGraph.py",
+		"/Users/johnmars/Development/3DMapsModels/NokiaWebGL/tiles.py",
+		"/Users/johnmars/Development/piggyphoto/piggyphoto/__init__.py",
+		"/Users/johnmars/Downloads/outputpenplot195924.hpgl",
+		"/Users/johnmars/.zshrc",
+		"/Users/johnmars/Development/LiveCity/sandbox2.py",
+		"/Users/johnmars/Development/LiveCity/twitterCredentials.py",
+		"/Users/johnmars/Development/LiveCity/twitterStream.py",
+		"/Users/johnmars/Development/EDR/EDR.sublime-project",
+		"/Users/johnmars/Google Drive/edr_sp14/individual/John_Mars/Week1/rgbColorBars.ndbx",
+		"/Users/johnmars/Development/EDR/twitterCSVGen.py",
+		"/Users/johnmars/Development/EDR/ranbowCSVGen.py",
+		"/Users/johnmars/Development/EDR/fibonacciGen.py",
+		"/Users/johnmars/Downloads/pynum2word-0.3/num2word_EN.py",
+		"/Users/johnmars/Downloads/pynum2word-0.3/num2word_EU.py",
+		"/Users/johnmars/Downloads/pynum2word-0.3/num2word_base.py",
+		"/Users/johnmars/Downloads/pynum2word-0.3/num2word.py",
+		"/Users/johnmars/Development/EDR/twitterCoordinates.csv",
+		"/Users/johnmars/Documents/Archive/Archive 13-14/Fall 2013/ThesisBoard/streamPrinterTrendingSpeakBlink.py",
+		"/Users/johnmars/Development/LiveCity/gatherToDB.py",
+		"/Users/johnmars/Development/LiveCity/streamToViz.py",
+		"/Users/johnmars/Dropbox/Shape of Flight - Wintersession/John Mars/Week1/bounce.py",
+		"/Users/johnmars/Dropbox/Shape of Flight - Wintersession/John Mars/Week3/lineWindTunnel.py",
+		"/Users/johnmars/Dropbox/Shape of Flight - Wintersession/John Mars/Week4/wiggle2.py",
+		"/Users/johnmars/Development/liveEdges/openCViSight.py",
+		"/Users/johnmars/Downloads/lines/edges/frame10.png",
+		"/Users/johnmars/Development/liveEdges/saveLinesAndOrigFrames.py",
+		"/Users/johnmars/Development/liveEdges/images2gif.py",
+		"/Users/johnmars/Development/liveEdges/sobel-roberts_example.py",
+		"/Users/johnmars/Development/liveEdges/makeGray.py",
+		"/usr/local/Library/Formula/opencv.rb",
+		"/Users/johnmars/Development/liveEdges/canny_example.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/new.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/thanks.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/index.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/base.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/which.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/urls.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/vote_list.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/models.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/admin.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/forms.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/question_list.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/new_q.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/pc/settings.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/question_detail.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/templates/base.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/pc/urls.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/q/templates/q/all.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/forms.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/models.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/templates/questioning/ask.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/views.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/urls.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/templates/questioning/review.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/templates/questioning/question.html",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/admin.py",
+		"/Users/johnmars/Development/PersonalComputing/pc/questioning/templates/questioning/index.html",
+		"/Users/johnmars/Documents/ask.html",
+		"/Users/johnmars/Development/PersonalComputing/PersonalComputing.sublime-workspace",
+		"/Users/johnmars/Dropbox/Shape of Flight - Wintersession/John Mars/Week4/wiggle.py",
+		"/Users/johnmars/Documents/Archive/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/BezierQuadraticRepetitionRandom.py",
+		"/Users/johnmars/Documents/Archive/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/BezierRecursive.py",
+		"/Users/johnmars/Documents/Archive/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/BezierQuadraticRepetition.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/BezierRecursive.py",
+		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/BezierQuadratic.py",
+		"/Users/johnmars/Dropbox/Shape of Flight - Wintersession/John Mars/Week3/universe.py",
+		"/Users/johnmars/Library/Application Support/Sublime Text 3/Packages/User/PygameBuild.sublime-build",
+		"/Users/johnmars/Library/Application Support/Sublime Text 3/Packages/User/PyProcessingBuild.sublime-build",
+		"/Users/johnmars/Development/PythonDev/threadingQueue.py",
+		"/Users/johnmars/Documents/Archive 13-14/Fall 2013/ThesisBoard/streamThreadQueue.py",
+		"/Users/johnmars/Development/LiveCity/sandbox3.py",
 		"/Users/johnmars/Development/LiveCity/sandbox.py",
+		"/Users/johnmars/Development/LiveCity/liveUpdateFromDB.py",
+		"/Users/johnmars/Development/LiveCity/.gitignore",
+		"/Users/johnmars/Development/LiveCity/deleteItemInDB.py",
+		"/Users/johnmars/Development/LiveCity/sandbox.json",
+		"/Users/johnmars/Documents/Archive 13-14/Fall 2013/ThesisBoard/streamPrinterTrendingSpeakBlink.py",
+		"/Users/johnmars/Development/LiveCity/README.html",
+		"/Users/johnmars/Development/LiveCity/LiveCity.sublime-project",
+		"/Users/johnmars/.zshrc.pre-oh-my-zsh",
+		"/Users/johnmars/.zcompdump-John",
+		"/Users/johnmars/Mars-5.0.5",
+		"/Users/johnmars/Development/LiveCity/exampleTweet.json",
 		"/Users/johnmars/Documents/Thesis/twitterStream.py",
 		"/Users/johnmars/Downloads/req.txt",
-		"/Users/johnmars/.zshrc",
 		"/Users/johnmars/.bash_profile",
 		"/Users/johnmars/.bashrc",
 		"/Users/johnmars/Documents/Archive 13-14/Fall 2013/ThesisBoard/streamSandbox.py",
@@ -672,97 +750,11 @@
 		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/WalkingLineNSEW.py",
 		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/WebDrawer.py",
 		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/ZipperLine.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/CirclesRadiusGradient.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/ColorChangeMouse.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/ConnectGridLines.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/CosineCircles.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/Grid.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/GridLinesFollowMouse.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/GridSandwichLargeCircles.py",
-		"/Users/johnmars/Website/portfolio-projects/Boids/flockingStartEndObstacles.py",
-		"/Users/johnmars/Website/portfolio-projects/Boids/boidsWithBorder.py",
-		"/Users/johnmars/Website/portfolio-projects/Boids/boids.py",
-		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/WalkingLineNSEW.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierQuadraticRepetitionAttractorPt.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierQuadraticRepetitionRandom.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierRecursive.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierAndLineWalker.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/BezierFifthOrderRepetitionAttractorPt.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame/Arc.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/Bezier_Cubic_Attractor.py",
-		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/SCRIPTS/BezierCubicRepetitionAttractorPt.py",
-		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/Bezier-Cubic_Random.py",
-		"/Users/johnmars/Documents/Archive 12-13/Spring 2013/Computing Drawing/ArcLengthMouse.py",
-		"/Users/johnmars/Website/portfolio-projects/Arc.py",
-		"/Users/johnmars/Website/DJANGO/mysite/mysite/urls.py",
-		"/Users/johnmars/Website/DJANGO/mysite/mysite/settings.py",
-		"/Users/johnmars/Website/DJANGO/mysite/portfolio/models.py",
-		"/Users/johnmars/Website/DJANGO/mysite/portfolio/views.py",
-		"/Users/johnmars/Website/DJANGO/mysite/files/static/portfolio/css/style.css",
-		"/Users/johnmars/Library/Caches/com.binarynights.ForkLift2/#1/config.isotope.js",
-		"/Users/johnmars/move.sh",
-		"/Users/johnmars/.zprezto/modules/python/README.md",
-		"/Users/johnmars/Downloads/transcript.html",
-		"/Users/johnmars/.zshrc.omz-uninstalled-20131220111531",
-		"/Users/johnmars/.zshrc.save",
-		"/Users/johnmars/Website/DJANGO/mysite/portfolio/templates/portfolio/project.html",
-		"/Users/johnmars/Website/DJANGO/mysite/files/static/portfolio/js/script.js",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/CA16E040-C606-4833-9852-7F42543197F0/config.isotope.js",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/4770CF55-09B3-4B81-A0D0-04D6F5432315/models.py",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/CC504EC0-0348-41AC-B18C-305F7F250F3D/project.html",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/C4B94E5B-CDE0-408D-812D-CDE3DCAF657C/models.py",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/9E4877E2-B14D-49DD-875D-B83DB922F720/admin.py",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/47FE010C-6E97-46F4-B869-2960801FE019/models.py",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/1C61E1EF-1512-4203-98C1-93DBB29CE765/style.css",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/C9F2AAEE-F41A-474C-95B6-D8430DA47AB2/index.html",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/F7C8E5BD-899B-4CD9-ABFF-F8149406BF1B/settings.py",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/B6D79697-B87B-4838-8ECA-DCB87D2CD690/settings.py",
-		"/Volumes/198.211.101.112/projects/mysite/portfolio/admin.py",
-		"/Volumes/198.211.101.112/projects/mysite/portfolio/models.py",
-		"/Volumes/198.211.101.112/projects/mysite/portfolio/templates/portfolio/index.html",
-		"/Volumes/198.211.101.112/projects/mysite/mysite/settings.py",
-		"/Volumes/198.211.101.112/projects/mysite/portfolio/views.py",
-		"/Users/johnmars/Library/Caches/com.binarynights.ForkLift2/#1/views.py",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/CD45FB1C-2F3A-4E2B-B7AB-027C4D992753/isotope.css",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/3161C059-3F8D-4C6F-A508-7EA2D66AD97C/style.css",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/944CC781-BC9F-4D93-A18F-CC2A260CF210/script.js",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/7D34FAC0-4445-4316-B698-6F424252D52E/config.isotope.js",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/templates/portfolio/contact.html",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/0319A347-2A0A-417E-898C-9FFE77349973/bio.html",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/3D578D09-96E1-4D15-8379-CF323E92495A/admin.py",
-		"/Users/johnmars/Library/Caches/Cleanup At Startup/Transmit/7FA5FE28-AA1C-4C8B-B8BF-6AAEB9E2CEFB/models.py",
-		"/Users/johnmars/portfolioSite/mysite/mysite/urls.py",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/models.py",
-		"/Users/johnmars/portfolioSite/mysite/mysite/settings.py",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/admin.py",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/views.py",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/templates/portfolio/base.html",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/templates/portfolio/index.html",
-		"/Users/johnmars/Desktop/ARToolKit/Configure",
-		"/Users/johnmars/ENV-DJANGO-PORTFOLIO/lib/python2.7/site-packages/django/core/servers/fastcgi.py",
-		"/Users/johnmars/Downloads/d.py",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/urls.py",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/static/portfolio/css/style.css",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/templates/portfolio/bio.html",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/static/portfolio/css/isotope.css",
-		"/Users/johnmars/portfolioSite/index.html",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/static/portfolio/js/script.js",
-		"/Users/johnmars/Website/index.html",
-		"/Users/johnmars/Website/js/isotope.js",
-		"/Users/johnmars/portfolioSite/mysite/portfolio/static/portfolio/js/config.isotope.js",
-		"/Users/johnmars/Website/js/scripts.js",
-		"/Users/johnmars/Website/css/isotope.css",
-		"/Users/johnmars/portfolioSite/js/config.isotope.js",
-		"/Users/johnmars/portfolioSite/js/script.js",
-		"/Users/johnmars/portfolioSite/css/style.css",
-		"/Users/johnmars/portfolioSite/css/isotope.css",
-		"/Users/johnmars/bootswatch/custom/variables.less",
-		"/Users/johnmars/portfolioSite/css/bootstrap.css",
-		"/Users/johnmars/bootswatch/custom/bootswatch.less"
+		"/Users/johnmars/Website/portfolio-projects/Pygame-Code/CirclesRadiusGradient.py"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -781,134 +773,134 @@
 		"case_sensitive": true,
 		"find_history":
 		[
-			"Twython",
-			"twython",
-			"255",
-			"end_action",
-			"event_actions",
-			"sin",
-			"Screen",
-			"speed",
-			"uniform",
-			"input",
-			"255",
-			"templa",
-			"  ",
-			"2013F",
-			"2014",
-			"2013FA",
-			"*PR",
-			"PR",
+			"spee",
+			"100",
+			"1000",
+			"num",
+			"n",
+			">",
+			"	",
+			", ",
+			"3",
+			"5",
+			"3",
+			"n",
+			"j",
 			"height",
-			"get",
-			"portfolio",
-			"content",
-			"contact",
-			"bio",
-			"subject",
-			"Std",
-			"ImageField",
-			"models.StdImageField",
-			"str(slug) + '/thumbs'",
-			"176",
-			"md",
-			"1",
-			"slug",
-			"project",
-			"|lower",
-			".lower()",
-			"category",
-			"category_list",
-			"static",
-			"options['de",
-			"wsgi_opts['debug']",
-			"download",
-			"user",
-			"portfolio",
-			"PrintablePortfolio",
 			"width",
-			"left",
-			"bio",
-			"resume",
-			"info",
-			"210",
-			"100",
-			"js/",
-			"css/",
-			"feat",
-			"#",
-			" blue",
-			" red",
-			"info",
-			".com/",
-			"featured",
-			"professional",
-			"architecture",
-			"#filter",
-			"filter",
-			"selected",
-			" class=\"active\"",
-			"Featured",
-			"featured",
-			"glyp",
-			"icon",
-			"glyp",
-			"fff",
-			"activ",
-			"outer",
-			"shadow",
-			"xsuccess",
-			"-s",
-			"data-category=\"test\"",
-			"data-option-value",
-			"div",
-			"100",
-			"10px",
-			"200px",
-			"90px",
-			"180",
+			"pass",
+			"width",
+			"x",
+			"[2]",
+			"follo",
+			"img",
+			"import",
+			"255)",
+			"= 255",
+			"pass",
+			"= ",
+			", ",
+			"return",
+			"sobel",
+			"roberts_positive_diagonal",
+			"negative",
+			"canny",
+			"scharr",
+			"sobel",
+			"roberts",
+			"sobel",
+			"add_frame",
+			"avg_frame",
+			"1, 2, 3, 4, 5",
+			" ",
+			"frame",
+			"im",
+			"getheaderAnim",
+			"cv",
+			"file",
+			"sobel",
+			"displ",
+			"random_q",
+			"best_q",
+			"random_q",
+			"best_q",
+			"q_vote.",
+			"Question",
+			"h1",
+			"Vote",
+			"args",
+			"revie",
+			"worse_than",
+			"blank",
+			"ForeignKey",
+			"ask",
+			"right_pt",
+			"left_pt",
+			"contr",
 			"200",
-			"cat",
-			"\"\"",
-			"default",
-			"webkit",
-			"focus",
-			"btn",
-			"sha",
-			"shado",
-			"out",
-			"outer",
-			"default",
-			"Design",
-			"label label-default",
+			"5",
+			"2",
+			"self",
+			"250",
+			"(255",
+			"white",
+			"200",
+			"particles",
+			"p1",
+			"x",
+			"upda",
+			"length",
+			"p2",
+			"p1",
 			"class",
-			"span",
-			"Design",
-			"sans",
-			"warnin",
-			"warn",
-			"success",
-			"navbar",
-			"nav",
-			"link",
-			"primary:ho",
-			"link",
-			"primary:",
-			"prima",
-			"link",
-			"WARNING",
-			"INFO",
-			"DANGER",
-			"PRIMARY",
-			"danger",
-			"warning",
-			"info",
-			"primary",
-			"primary:h",
-			"info:h",
-			"#ff0039",
-			"info",
-			"1px solid #0066cc"
+			"object",
+			"universe",
+			"colour",
+			"particl_size",
+			"hypo",
+			"exp",
+			"colour",
+			"speed",
+			"colour",
+			"self.y",
+			"self.x",
+			"self.",
+			"move(",
+			"self.y",
+			"self.x",
+			"elasticity",
+			"windowY",
+			"windowX",
+			"dra",
+			"self.",
+			"x",
+			"g",
+			")",
+			"1",
+			"1.4",
+			"1.1",
+			"mass",
+			"windowY",
+			"windowX",
+			"10",
+			")",
+			"(",
+			"mass",
+			"pygame",
+			"coordinates",
+			"2",
+			"q",
+			"10",
+			"9",
+			"10",
+			"2",
+			"5",
+			"10",
+			"latitude",
+			"longitude",
+			"stream_to_animate_queue",
+			"x",
+			"Twython"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -967,37 +959,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "twitterStream.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 573,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								275,
-								275
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1034,7 +997,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 294.0
+		"height": 113.0
 	},
 	"output.find_results":
 	{
