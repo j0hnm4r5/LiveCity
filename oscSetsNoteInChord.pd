@@ -44,7 +44,6 @@
 1;
 #X obj 862 -98 import mrpeach;
 #X obj 752 -74 unpackOSC;
-#X obj 752 -98 udpreceive 44001;
 #X msg 752 91 0;
 #X obj 388 241 /;
 #X floatatom 367 217 5 0 0 0 - - -;
@@ -73,6 +72,7 @@
 #X obj 752 -48 routeOSC /bang /fund /h1 /h2 /h3 /h4 /h5 /h6 /x;
 #X obj 753 -19 routeOSC /f /1/1 /1/2 /2/1 /2/2 /3/1 /3/2 /4/1 /4/2
 /5/1 /5/2 /6/1 /6/2;
+#X obj 752 -98 udpreceive 44002;
 #X connect 1 0 20 0;
 #X connect 1 0 22 0;
 #X connect 1 0 21 0;

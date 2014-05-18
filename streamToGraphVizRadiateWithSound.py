@@ -13,6 +13,7 @@ from math import sqrt
 import liblo
 
 try:
+	# RUN: oscSetsNoteInChord.pd
 	target = liblo.Address(44002)
 except liblo.AddressError, err:
 	print str(err)
@@ -107,7 +108,7 @@ def add_node(x, y, node_color, followers_count):
 	for m in range(num_local):
 		node = choice(g.nodes)
 		if node != new:
-			g.add_edge(new, node, stroke=color(0), length=distance(new.x, new.y, node.x, node.y))
+			g.add_edge(new, node, stroke=color(.4), length=distance(new.x, new.y, node.x, node.y))
 
 	for m in range(num_global):
 		stroke(.5)
@@ -241,8 +242,8 @@ streaming.start()
 
 canvas = Canvas(name=loc[2], resizable=True)
 
-# canvas.width = (float(geoBounds[2]) - float(geoBounds[0])) * scale_factor
-# canvas.height = (float(geoBounds[3]) - float(geoBounds[1])) * scale_factor
+canvas.width = (float(geoBounds[2]) - float(geoBounds[0])) * scale_factor
+canvas.height = (float(geoBounds[3]) - float(geoBounds[1])) * scale_factor
 
 # canvas.fullscreen = True
 canvas.run(draw)
